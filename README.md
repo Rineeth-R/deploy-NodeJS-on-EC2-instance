@@ -15,9 +15,6 @@ Installed the required version of Node.js and npm on the EC2 instance to ensure 
 
 Deployed the Node.js application to the EC2 instance by cloning it from the Git repository or transferring the files directly.
 Installed all the necessary dependencies for the application to run properly.
-Environment Variables Configuration:
-
-Configured production-specific environment variables, including API keys, database credentials, and other app settings, to ensure the application ran securely and efficiently in the production environment.
 
 **App Configuration and Execution:**
 
